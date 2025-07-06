@@ -163,10 +163,9 @@ GIS zone detection accuracy	100%
 
 ✅ Next Steps
 	1.	UI Mockups in MagicPatterns: Yard view, cargo import, placement UI
-	2.	Finalize Supabase schema based on this PRD
-	3.	Create import template (Excel + Google Sheets)
-	4.	Sprint 1: Project + Yard + GIS
-	5.	Sprint 2: Cargo Registry + Placement + Export
+	2.	API Postman collection document for api integration
+	3.	Sprint 1: Project + Yard + GIS
+	4. 	Sprint 2: Cargo Registry + Placement + Export
 
 ---
 
